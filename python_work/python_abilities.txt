@@ -1,0 +1,3 @@
+In Python you can do easy programming
+In Python you can read from files
+In Python you can make Space Invaders
